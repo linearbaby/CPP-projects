@@ -1,0 +1,1 @@
+This repo will accumulate some code for homeworks in CPP language mastering.
