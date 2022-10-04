@@ -1,0 +1,5 @@
+#pragma once
+
+
+#define DATA_FILE "@DATA_FILE@"
+
